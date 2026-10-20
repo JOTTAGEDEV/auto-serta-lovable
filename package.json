@@ -1,0 +1,8 @@
+{
+  "name": "auto-serta-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site responsivo Auto Serta Mecânica, preto e amarelo, com animações de rolagem",
+  "scripts": {"dev": "node server.cjs", "start": "node server.cjs", "build": "node build.cjs"},
+  "engines": {"node": ">=18"}
+}
